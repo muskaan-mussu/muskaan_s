@@ -1,0 +1,36 @@
+.footer{
+    height: 250px;
+    background-color: rgba(130, 130, 130, 0.51);
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 0px;
+}
+.f-text{
+    font-size: 40px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.f-button{
+    border: none;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    letter-spacing: 1px;
+    text-align: center;
+    display: inline;
+}
+
+.copyrights{
+
+    color: white;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+}

@@ -1,0 +1,56 @@
+.header{
+    background-image: url(../Assests/Music.png);
+    background-size: contain;
+    height: 150px;
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    flex-wrap:wrap;    
+}
+.logo{
+    height: 150px;
+    width: 100px;
+}
+.title{
+    color:blueviolet;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0px;
+    padding-left: 150px;
+}
+.logo1{
+    height: 100px;
+    width: 100px;
+}
+.nav{
+    margin-top:30px;
+    margin-left: 250px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    justify-content: space-between;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 20px;
+    display: inline;
+    
+}
+.subtitle{
+    color:rgb(192, 81, 16);
+    display:inline;
+}
+.sublogo{
+    height: 80px;
+    width: 80px;
+}
+.subhead{
+    box-shadow: 5px 2px 2px gainsboro;
+    display: flex;
+}
+button{
+    color: red;
+    font-size: 20px;
+}
